@@ -1,0 +1,2 @@
+SUPPORT US BY FUNDING ANY SMALL AMOUNT:
+Subject: Calling All Indian Developers: Let’s Build the Future Together 🇮🇳💻Hey everyone,India has some of the finest engineering minds in the world.We power global tech giants every day.Now, it is time to channel our skills into something collaborative.I am launching a project to build impactful solutions.We need frontend devs, backend architects, UI/UX designers, and DevOps engineers.Whether you are a veteran or a fresher, your skills matter.Let’s unite, exchange ideas, and build software that makes a difference.
